@@ -1,0 +1,12 @@
+@-moz-document url("http://www.ingress.com/intel") {
+    #header, #comm, #player_stats, #game_stats, #geotools, #filters_container, #footer, #portal_filter_header{
+        display:none!important;
+    }
+
+    #dashboard_container{
+        left: 0px;
+        top: 0px;
+        bottom: 0px;
+        right: 0px;
+    }
+}
